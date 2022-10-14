@@ -40,7 +40,8 @@ Output --> pod/web-nginx-edited created
 ```
 --> kubectl apply -f svc.yaml
 
+
 Remember: 
-- to add a label to your pod yaml.
+- to add a label to your pod yaml, then "kubectl apply -f nginx.yaml" to edit the changes you've made.
 - On the service clusterIP there's "selector" which match the labels you have.
 ```
