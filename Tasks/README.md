@@ -9,3 +9,11 @@ tell Kubernetes to create a single pod rather than a Deployment:
 
 --> kubectl run nginx --image=nginx --restart=Never
 ```
+
+### Create a POD with Nginx using a yaml file
+```
+Created it inside nginx-yaml
+
+Then run this command :
+--> kubectl apply -f nginx.yaml 
+```
