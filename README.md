@@ -1,3 +1,7 @@
 # Practice-K8S
 
-practice Kubernetes
+##Practice Kubernetes
+
+- Master Node(s)
+- Worker Node(s)
+
