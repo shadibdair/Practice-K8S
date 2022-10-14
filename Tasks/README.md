@@ -121,5 +121,13 @@ Added the name of my service nodeport that I was created.
 
 ![Screen Shot 2022-10-15 at 1 32 07](https://user-images.githubusercontent.com/43513994/195953679-783f2fef-91a3-45c0-9955-8f3f8a470566.png)
 
+----
+----
+
+# Shadi's Workload status :
+![Screen Shot 2022-10-15 at 1 47 27](https://user-images.githubusercontent.com/43513994/195954627-6314474e-38bb-4301-a6a5-325dc4c4ab0f.png)
+
+
+
 
 
