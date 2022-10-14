@@ -29,5 +29,6 @@ add pics
 
 ### Edit the image of the container in the pod and deploy it.
 ```
---> 
+--> kubectl apply -f nginx.yaml
+Output --> pod/web-nginx-edited created
 ```
