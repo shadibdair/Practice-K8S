@@ -32,3 +32,8 @@ add pics
 --> kubectl apply -f nginx.yaml
 Output --> pod/web-nginx-edited created
 ```
+
+### Create a ClusterIP service and connect it to the pod.
+```
+--> 
+```
