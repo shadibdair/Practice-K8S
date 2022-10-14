@@ -108,6 +108,15 @@ Because every time I reload the page it's alternating between the "3" pods that 
 ```
 *Screenshots:*
 
+```
+Because I'm access applications running within minikube, I used this command :
+Added the name of my service nodeport that I was created.
+--> minikube service svc-nodeport --url
+```
+
+![Screen Shot 2022-10-15 at 1 42 10](https://user-images.githubusercontent.com/43513994/195954098-544fdcaf-223d-47e8-ab9e-83be2971d57a.png)
+
+
 <img width="1263" alt="Screen Shot 2022-10-15 at 1 35 10" src="https://user-images.githubusercontent.com/43513994/195953664-7ab84465-211c-4429-b07a-91f36921297c.png">
 
 ![Screen Shot 2022-10-15 at 1 32 07](https://user-images.githubusercontent.com/43513994/195953679-783f2fef-91a3-45c0-9955-8f3f8a470566.png)
