@@ -9,6 +9,6 @@ spec:
     - name: web-edited
       image: nginx
       ports:
-        - name: web
-          containerPort: 80
+        - containerPort: 80
+          name: web
           protocol: TCP
