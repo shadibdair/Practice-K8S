@@ -63,6 +63,10 @@ Created it inside svc-nodeport.yaml
 ### Create a deployment instead of the pod.
 #### Why should we use deployment and not ReplicaSet or POD objects?
 ```
+Kubernetes schedules and automates container deployment across multiple compute nodes, whether on the public cloud, onsite VMs or physical on-premises machines.
+Its automatic scaling lets teams scale up or down to meet demand faster.
+```
+```
 Created it inside deployment.yaml 
 --> kubectl apply -f deployment.yaml 
 ```
