@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: web-nginx
+  name: web-nginx-edited
 spec:
   containers:
-    - name: web
+    - name: web-edited
       image: nginx
       ports:
         - name: web
