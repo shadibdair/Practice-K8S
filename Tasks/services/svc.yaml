@@ -4,10 +4,10 @@ metadata:
   name: my-cip-service
 spec:
   type: ClusterIP
-  clusterIP: None
   selector:
     app: nginx
   ports:
-  - protocol: TCP
+  - name: nginx-port-svc
+    protocol: TCP
     port: 80
-    targetPort: 8080
+    targetPort: web
