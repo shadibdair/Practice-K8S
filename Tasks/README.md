@@ -66,3 +66,8 @@ Created it inside svc-nodeport.yaml
 Created it inside deployment.yaml 
 --> kubectl apply -f deployment.yaml 
 ```
+*Screenshots:*
+
+![Screen Shot 2022-10-14 at 13 39 11](https://user-images.githubusercontent.com/43513994/195828065-f4c43a4f-5921-4ac0-aaa0-44683c31d61b.png)
+
+
