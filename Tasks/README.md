@@ -82,6 +82,11 @@ To create a service :
 --> kubectl apply -f svc-nodeport.yaml
 The yaml file svc nodeport under folder "services".
 ```
+*Screenshots:*
+
+<img width="912" alt="Screen Shot 2022-10-15 at 1 13 29" src="https://user-images.githubusercontent.com/43513994/195951884-555839b9-a700-45af-8fda-c7f017022601.png">
+
+
 
 
 ### Scale your application to 3 instances.
