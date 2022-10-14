@@ -4,6 +4,8 @@ metadata:
   name: my-nginx
 spec:
   type: NodePort
+  externalIPs:
+    - 125.100.99.101
   ports:
     - protocol: TCP
       port: 80
