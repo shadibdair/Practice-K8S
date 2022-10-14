@@ -35,3 +35,12 @@ Then run this command :
 --> kubectl apply -f nginx.yaml
 Output --> pod/web-nginx-edited created
 ```
+
+### Create a ClusterIP service and connect it to the pod.
+```
+--> kubectl apply -f svc.yaml
+
+Remember: 
+- to add a label to your pod yaml.
+- On the service clusterIP there's "selector" which match the labels you have.
+```
