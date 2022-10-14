@@ -101,4 +101,16 @@ In the deployment yaml I've changed the replicas from 3 to 5, then:
 ### Go inside each pod and edit the index.html file and try to access the nginx web site. 
 #### Did it change?
 ```
+As you can see the results:
+After get inside each pods and edit the index.html.
+When I access it from the URL I've received different results.
+Because every time I reload the page it's alternating between the "3" pods that I have inside the deployment (replicas) 
 ```
+*Screenshots:*
+
+<img width="1263" alt="Screen Shot 2022-10-15 at 1 35 10" src="https://user-images.githubusercontent.com/43513994/195953664-7ab84465-211c-4429-b07a-91f36921297c.png">
+
+![Screen Shot 2022-10-15 at 1 32 07](https://user-images.githubusercontent.com/43513994/195953679-783f2fef-91a3-45c0-9955-8f3f8a470566.png)
+
+
+
