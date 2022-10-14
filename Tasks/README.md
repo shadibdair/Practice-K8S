@@ -45,3 +45,7 @@ Remember:
 - to add a label to your pod yaml, then "kubectl apply -f nginx.yaml" to edit the changes you've made.
 - On the service clusterIP there's "selector" which match the labels you have.
 ```
+*Screenshots:*
+
+![Screen Shot 2022-10-14 at 13 06 14](https://user-images.githubusercontent.com/43513994/195821332-3a17dc16-0d91-4cd3-910b-8a687b0645d7.png)
+
