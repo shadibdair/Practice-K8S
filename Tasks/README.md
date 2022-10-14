@@ -38,6 +38,7 @@ Output --> pod/web-nginx-edited created
 
 ### Create a ClusterIP service and connect it to the pod.
 ```
+Created it inside svc.yaml
 --> kubectl apply -f svc.yaml
 
 
@@ -52,6 +53,9 @@ Remember:
 
 ### Create an external service (nodeport or loadbalancer) and connect it to the POD
 ```
-
--->
+Created it inside svc-nodeport.yaml
+--> kubectl apply -f svc-nodeport.yaml
 ```
+*Screenshots:*
+![Screen Shot 2022-10-14 at 13 26 47](https://user-images.githubusercontent.com/43513994/195825637-2e31655f-c0cd-4224-8a77-621b058ef94b.png)
+
