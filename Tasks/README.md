@@ -75,6 +75,10 @@ Created it inside deployment.yaml
 ![Screen Shot 2022-10-14 at 13 39 11](https://user-images.githubusercontent.com/43513994/195828065-f4c43a4f-5921-4ac0-aaa0-44683c31d61b.png)
 
 
+### Connect your external services to the deployment.
+```
+```
+
 
 ### Scale your application to 3 instances.
 ```
@@ -85,3 +89,7 @@ In the deployment yaml I've changed the replicas from 3 to 5, then:
 
 ![Screen Shot 2022-10-14 at 13 52 37](https://user-images.githubusercontent.com/43513994/195830583-d5e7d5a2-2160-4e9f-8fec-3f223e58b730.png)
 
+### Go inside each pod and edit the index.html file and try to access the nginx web site. 
+#### Did it change?
+```
+```
