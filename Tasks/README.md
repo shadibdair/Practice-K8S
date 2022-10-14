@@ -49,3 +49,9 @@ Remember:
 
 ![Screen Shot 2022-10-14 at 13 06 14](https://user-images.githubusercontent.com/43513994/195821332-3a17dc16-0d91-4cd3-910b-8a687b0645d7.png)
 
+
+### Create an external service (nodeport or loadbalancer) and connect it to the POD
+```
+
+-->
+```
