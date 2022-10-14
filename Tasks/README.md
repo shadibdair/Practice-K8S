@@ -77,6 +77,10 @@ Created it inside deployment.yaml
 
 ### Connect your external services to the deployment.
 ```
+I've added a label "matchLabels" and created service nodeport.
+To create a service :
+--> kubectl apply -f svc-nodeport.yaml
+The yaml file svc nodeport under folder "services".
 ```
 
 
