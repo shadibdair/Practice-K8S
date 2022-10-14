@@ -17,3 +17,17 @@ Created it inside nginx-yaml
 Then run this command :
 --> kubectl apply -f nginx.yaml 
 ```
+
+
+### Using kubectl port-forward access the nginx web page
+```
+--> kubectl port-forward web-nginx 8000:80
+
+add pics
+```
+
+
+### Edit the image of the container in the pod and deploy it.
+```
+--> 
+```
