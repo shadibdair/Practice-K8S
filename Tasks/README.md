@@ -59,3 +59,10 @@ Created it inside svc-nodeport.yaml
 *Screenshots:*
 ![Screen Shot 2022-10-14 at 13 26 47](https://user-images.githubusercontent.com/43513994/195825637-2e31655f-c0cd-4224-8a77-621b058ef94b.png)
 
+
+### Create a deployment instead of the pod.
+#### Why should we use deployment and not ReplicaSet or POD objects?
+```
+Created it inside deployment.yaml 
+--> kubectl apply -f deployment.yaml 
+```
