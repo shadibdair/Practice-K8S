@@ -140,6 +140,11 @@ Under namespace folder, I've created a yaml file contain a namespace .. then :
 --> OUTPUT : namespace/shadi-namespace created
 ```
 
+*Screenshots:*
+
+<img width="404" alt="Screen Shot 2022-10-15 at 11 05 15" src="https://user-images.githubusercontent.com/43513994/195976468-5f917fd4-98b1-441c-bd01-94c84dceb0a0.png">
+
+
 ----
 ----
 
