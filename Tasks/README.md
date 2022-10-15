@@ -135,13 +135,15 @@ Added the name of my service nodeport that I was created.
 
 ### Create a namespace for the new deployment and move the deployment created to that namespace.
 ```
-
+Under namespace folder, I've created a yaml file contain a namespace .. then :
+--> kubectl apply -f namespace.yaml
+--> OUTPUT : namespace/shadi-namespace created
 ```
 
 ----
 ----
 
-# Shadi's Workload status :
+# 🧛 Shadi's Workload status :
 ![Screen Shot 2022-10-15 at 1 47 27](https://user-images.githubusercontent.com/43513994/195954627-6314474e-38bb-4301-a6a5-325dc4c4ab0f.png)
 
 
