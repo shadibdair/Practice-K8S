@@ -151,6 +151,9 @@ So What I've did, added inside the yaml file, where the metadata :
 
 <img width="404" alt="Screen Shot 2022-10-15 at 11 05 15" src="https://user-images.githubusercontent.com/43513994/195976468-5f917fd4-98b1-441c-bd01-94c84dceb0a0.png">
 
+### Can you use the same service to connect to the deployment now?
+```
+```
 
 ----
 ----
