@@ -132,6 +132,13 @@ Added the name of my service nodeport that I was created.
 ![Screen Shot 2022-10-15 at 1 32 07](https://user-images.githubusercontent.com/43513994/195953679-783f2fef-91a3-45c0-9955-8f3f8a470566.png)
 
 ----
+
+### Create a namespace for the new deployment and move the deployment created to that namespace.
+```
+
+```
+
+----
 ----
 
 # Shadi's Workload status :
