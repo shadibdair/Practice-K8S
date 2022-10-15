@@ -5,7 +5,7 @@ metadata:
   name: deployment-apps
   namespace: shadi-namespace
 spec:
-  replicas: 3
+  replicas: 4
   selector:
     matchLabels:
       tag: nginx-app
