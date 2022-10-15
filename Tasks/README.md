@@ -153,6 +153,9 @@ So What I've did, added inside the yaml file, where the metadata :
 
 ### Can you use the same service to connect to the deployment now?
 ```
+ NodePort is not enough.
+ What is need is support for LoadBalancer type of service.
+ It builds up upon NodePort.
 ```
 
 ----
