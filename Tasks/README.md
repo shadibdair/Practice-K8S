@@ -142,6 +142,9 @@ Under namespace folder, I've created a yaml file contain a namespace .. then :
 If I want to move the deployment that was created previously to another namespcae:
 --> You cannot move a resource to another namespace.
     You need to delete the existing pod and recreate it in the other namespace.
+
+So What I've did, added inside the yaml file, where the metadata :
+--> namespace: shadi-namespace
 ```
 
 *Screenshots:*
