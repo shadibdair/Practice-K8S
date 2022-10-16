@@ -13,3 +13,10 @@
 2- systemctl
 3- conatinaer
 ```
+
+### Services:
+```
+1- ClusterIP
+2- NodePort
+3- LoadBalancer
+```
