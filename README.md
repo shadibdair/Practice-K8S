@@ -21,4 +21,5 @@
 2- NodePort
 3- LoadBalancer
 ```
-@!
+@
+!
