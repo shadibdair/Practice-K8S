@@ -9,7 +9,7 @@
 
 ## The Rest API, Scheduler and controller -> can run every one of these services:
 ```
-1- proccess 
+1- proccess.
 2- systemctl
 3- conatinaer
 ```
