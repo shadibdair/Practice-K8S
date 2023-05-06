@@ -1,4 +1,4 @@
-# Practice-K8S.
+# Practice-K8S
 
 ## Practice Kubernetes
 
